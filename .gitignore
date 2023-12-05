@@ -6,6 +6,9 @@
 /Saved/
 /Releases/
 
+# Until I pay for LFS can't include Content
+/Content/
+
 # Ignore Plugins build and temp folders
 /Plugins/**/Binaries
 /Plugins/**/Intermediate
