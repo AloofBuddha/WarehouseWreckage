@@ -6,8 +6,8 @@
 /Saved/
 /Releases/
 
-# Until I pay for LFS can't include Content
-/Content/
+# ignore subdirectories but not top level files
+/Content/*/
 
 # Ignore Plugins build and temp folders
 /Plugins/**/Binaries
